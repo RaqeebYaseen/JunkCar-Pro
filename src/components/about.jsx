@@ -17,11 +17,11 @@ const AboutSection = () => {
           </p>
 
           <p className="text-gray-600 leading-relaxed mb-6 rounded-md">
-            Founded in 2025, Junk Car has been a trusted name in the automotive industry for over two decades. We started with a simple mission: to make car buying easy, transparent, and enjoyable for our customers. Over the years, we've grown from a small local dealership to a renowned automotive hub, offering a wide range of services and an extensive inventory of vehicles.
+            Founded in 2025, Junk Car has been a trusted name in the automotive industry for over two decades. We started with a simple mission: to make car buying easy, transparent, and enjoyable for our customers. Over the years, we&rsquo;ve grown from a small local dealership to a renowned automotive hub, offering a wide range of services and an extensive inventory of vehicles.
           </p>
 
           <p className="text-gray-600 leading-relaxed mb-8 rounded-md">
-            What sets us apart from other dealerships is our unwavering commitment to customer satisfaction. We offer a wide selection of vehicles, competitive pricing, flexible financing options, and comprehensive after-sales support. When you choose Junk Car, you can be confident that you're making a smart and informed decision.
+            What sets us apart from other dealerships is our unwavering commitment to customer satisfaction. We offer a wide selection of vehicles, competitive pricing, flexible financing options, and comprehensive after-sales support. When you choose Junk Car, you can be confident that you&rsquo;re making a smart and informed decision.
           </p>
 
           {/* <button color={themeColors. secondary} className="hover:bg-red-700 text-white font-bold py-3 px-8 rounded-md shadow-lg transition duration-300 ease-in-out">
